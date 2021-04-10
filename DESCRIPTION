@@ -1,0 +1,14 @@
+Package: lizhiwei
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R:
+    person(given = 'zhiwei',
+           family = 'Li',
+           role = c('aut', 'cre'),
+           email = '15128472546@163.com')
+Description: show the people name in 225 office.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
